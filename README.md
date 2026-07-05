@@ -3,7 +3,7 @@
 ## steps to run 
 
 ```bash
-conda create -n medibot python==3.11 -y
+conda create -n medibot python==3.10 -y
 ```
 
 ## Activate medibot
